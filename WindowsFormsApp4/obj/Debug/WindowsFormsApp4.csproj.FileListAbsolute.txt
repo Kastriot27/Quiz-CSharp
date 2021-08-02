@@ -1,0 +1,38 @@
+C:\Users\Pro\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Pro\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Pro\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Pro\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Pro\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Pro\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Pro\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Pro\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Pro\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Pro\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Pro\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Main.resources
+C:\Users\Pro\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.PhotoQuizz.resources
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Main.resources
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.PhotoQuizz.resources
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\k_zab\OneDrive\Desktop\csharp\wetransfer-94c6ca\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Quizz.resources
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Main.resources
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.PhotoQuizz.resources
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Quizz.resources
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\k_zab\OneDrive\Desktop\Librat\viti III\programimi\projekti\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
